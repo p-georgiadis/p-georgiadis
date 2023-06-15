@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate or intern on anything to do with cloud architecture.
 - 🤔 I’m looking for help with learning the power of kubernetes and terraform.
 - 📫 How to reach me: https://www.linkedin.com/in/p-georgiadis/
-- ⚡ Fun fact: I am a restaurantuer by trade | I enjoy playing blues guitar | I know fluent Greek & some Mandarin as well
+- ⚡ Fun fact: I am a restaurateur by trade | I enjoy playing blues guitar | I know fluent Greek & some Mandarin as well
 
 ---
