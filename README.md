@@ -14,7 +14,8 @@
 ![Docker Essentials](https://img.shields.io/badge/Docker-Essentials-9cf)
 ![IBM Cloud Essentials](https://img.shields.io/badge/IBM-Cloud_Essentials-lightgrey)
 ![Microsoft Certified Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-blue)
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 ###
 Hello, and welcome to my GitHub profile! I am currently pursuing a Master of Science in Computer Science at the University of Colorado Boulder, where I specialize in cloud engineering and software architecture for big data applications. As a self-taught IT enthusiast, my journey has evolved from curiosity-driven exploration to a disciplined academic and professional development.
 
