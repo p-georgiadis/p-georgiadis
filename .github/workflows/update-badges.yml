@@ -1,5 +1,5 @@
 name: Update badges
-
+on: push
 jobs:
   update-readme:
     name: Update Readme with badges
