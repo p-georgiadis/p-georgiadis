@@ -2,9 +2,9 @@
 
   <h1 style="font-size: 3em; color: #333; margin-bottom: 0.5em;">
     Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="50"> I'm Pano Georgiadis
-    <a href="https://www.linkedin.com/in/p-georgiadis/" style="font-size: 1.2em; color: #0e76a8; text-decoration: none; display: flex; align-items: center; margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin-right: 10px;">
-  </a>
+<a href="https://www.linkedin.com/in/p-georgiadis/" style="font-size: 1.2em; color: #0e76a8; text-decoration: none; display: flex; align-items: center; margin-top: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" style="margin-right: 10px;">
+</a>
   </h1>
 
   <!--START_SECTION:badges-->
