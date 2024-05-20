@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "*/5 * * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "updated badges" # optional
+          CREDLY_USER: pgeorgiadis # optional, but default will use the same from github
+          CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: 100 # optional, 110x110 default
