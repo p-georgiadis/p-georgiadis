@@ -31,8 +31,8 @@
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](http://www.credly.com/badges/2099eaf8-2ff2-4087-97f9-189912dc4c83 "LFCS: Linux Foundation Certified Systems Administrator")
 [![LFS253: Containers Fundamentals](https://images.credly.com/size/110x110/images/e06d5627-5ff7-483f-b8e1-4157287ffdc2/LF_logobadge.png)](http://www.credly.com/badges/e208e512-25f5-4ad3-ab06-e3dd3d3800b7 "LFS253: Containers Fundamentals")
 [![LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery](https://images.credly.com/size/110x110/images/fb65d04a-6138-4c71-b475-9c3851aea5df/LF_logobadge.png)](http://www.credly.com/badges/216fec68-c5f1-450d-ae7b-906d9288b21d "LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery")
-[![LFS207: Linux System Administration Essentials](https://images.credly.com/size/110x110/images/43481a5e-d6dd-4e83-96de-71f9ffe50987/image.png)](http://www.credly.com/badges/3ab51c73-191f-484b-bbde-1ade83ca3940 "LFS207: Linux System Administration Essentials")
-[![LFS203: Linux for Cloud Technicians Essentials](https://images.credly.com/size/110x110/images/aa604f88-7e6f-4d81-af66-6674431ab86b/image.png)](http://www.credly.com/badges/7e8e7c80-4d67-4631-9bb5-27c648d1776e "LFS203: Linux for Cloud Technicians Essentials")
+[![LFS207: Linux System Administration Essentials](https://images.credly.com/size/110x110/images/f7e95934-c3f8-4b80-98ae-d454c64a1d5a/image.png)](http://www.credly.com/badges/3ab51c73-191f-484b-bbde-1ade83ca3940 "LFS207: Linux System Administration Essentials")
+[![LFS203: Linux for Cloud Technicians Essentials](https://images.credly.com/size/110x110/images/e06f2022-28f0-476e-bd9a-ecbdbbdd3162/image.png)](http://www.credly.com/badges/7e8e7c80-4d67-4631-9bb5-27c648d1776e "LFS203: Linux for Cloud Technicians Essentials")
 <!--END_SECTION:badges-->
 
  <h2 style="font-size: 2em; color: #555;">Welcome to my GitHub profile!</h2>
