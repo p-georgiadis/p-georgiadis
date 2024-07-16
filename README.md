@@ -1,11 +1,24 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px; font-family: 'Arial', sans-serif;">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="vertical-align: middle;">
+  <h1 style="font-size: 3.5em; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hello, I'm Pano Georgiadis</h1>
+  
+  <p style="font-size: 1.5em; margin: 20px 0;">Cloud Engineer | MS Computer Science Student | DevOps Enthusiast</p>
+  
+  <a href="https://www.linkedin.com/in/p-georgiadis/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-  <h1 style="font-size: 3em; color: #333; margin-bottom: 0.5em;">
-    Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="50"> I'm Pano Georgiadis
-<a href="https://www.linkedin.com/in/p-georgiadis/" style="font-size: 1.2em; color: #0e76a8; text-decoration: none; display: flex; align-items: center; margin-top: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" style="margin-right: 10px;">
-</a>
-  </h1>
+<div style="background-color: #f8f9fa; padding: 30px; border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h2 style="color: #4a5568; border-bottom: 2px solid #4a5568; padding-bottom: 10px;">About Me</h2>
+  <p style="color: #4a5568; line-height: 1.8; font-size: 1.1em;">
+    🎓 Pursuing an MS in Computer Science at the University of Colorado Boulder<br>
+    💻 Specializing in cloud engineering and software architecture for big data applications<br>
+    🔧 Expert in system configurations and troubleshooting across Windows and Linux platforms<br>
+    🚀 Passionate about algorithm design and machine learning<br>
+    🌟 Dedicated to pushing technological boundaries and driving innovation
+  </p>
+</div>
 
 <!--START_SECTION:badges-->
 <h1 align="center">Certifications & Badges</h1>
@@ -67,20 +80,13 @@
 </details>
 <!--END_SECTION:badges-->
 
- <h2 style="font-size: 2em; color: #555;">Welcome to my GitHub profile!</h2>
-  <p style="max-width: 800px; text-align: left; color: #666; font-size: 1.1em; line-height: 1.6;">
-    I am currently pursuing a Master of Science in Computer Science at the University of Colorado Boulder, where I specialize in cloud engineering and software architecture for big data applications. As a self-taught IT enthusiast, my journey has evolved from curiosity-driven exploration to a disciplined academic and professional development.
-    <br><br>
-    With a rich background in system configurations and troubleshooting across both Windows and Linux platforms, I have developed a keen expertise in creating robust and scalable cloud solutions for major corporations. My technical prowess is further enhanced by a comprehensive suite of certifications that demonstrate my commitment to maintaining cutting-edge skills and a deep understanding of network infrastructure and secure infrastructure frameworks.
-    <br><br>
-    In the realm of coding, my passion lies in algorithm design and machine learning, with a particular focus on both supervised and unsupervised learning models. These skills allow me to construct intelligent systems that not only predict outcomes with high accuracy but also discover patterns in vast datasets autonomously. My goal is to leverage these capabilities to build innovative solutions that meet organizational needs and drive technological advancements.
-    <br><br>
-    On GitHub, I am here to collaborate on projects that push the boundaries of what’s technologically feasible and to contribute to communities that share a thirst for knowledge and innovation. I am eager to connect with other professionals to explore potential synergies and advance our shared interests in technology.
-    <br><br>
-    If you’re looking for someone who blends a strong technical foundation with a strategic view of IT integrations and optimizations, I would love to discuss how we can work together to create something extraordinary. Let’s connect and make the digital world a little more intelligent and a lot more efficient.
+ <div style="background-color: #f8f9fa; padding: 30px; border-radius: 10px; margin-top: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h2 style="color: #4a5568; border-bottom: 2px solid #4a5568; padding-bottom: 10px;">Let's Connect and Innovate!</h2>
+  <p style="color: #4a5568; line-height: 1.8; font-size: 1.1em;">
+    I'm here to collaborate on projects that push technological boundaries. If you're looking for someone who blends a strong technical foundation with a strategic view of IT integrations and optimizations, let's connect and create something extraordinary together!
   </p>
+</div>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ1NDBpcjNvMG53M2I2eWhmYWthYjBoeGdwOHJnY2YxbThjbnd4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" style="margin: 20px 0;">
-  
-
+<div align="center" style="margin-top: 40px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ1NDBpcjNvMG53M2I2eWhmYWthYjBoeGdwOHJnY2YxbThjbnd4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
