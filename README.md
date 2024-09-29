@@ -13,7 +13,7 @@
   <h2 style="color: #4a5568; border-bottom: 2px solid #4a5568; padding-bottom: 10px;">About Me</h2>
   <p style="color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     🎓 Pursuing an MS in Computer Science at the University of Colorado Boulder<br>
-    💻 Specializing in cloud engineering and software architecture for big data applications<br>
+    💻 Specializing in cloud engineering, DevOps, and infrastructure architecture for big data applications<br>
     🔧 Expert in system configurations and troubleshooting across Windows and Linux platforms<br>
     🚀 Passionate about algorithm design and machine learning<br>
     🌟 Dedicated to pushing technological boundaries and driving innovation
@@ -23,7 +23,7 @@
 <!--START_SECTION:badges-->
 <h1 align="center">Certifications & Badges</h1>
 
-<h2 align="center">Cloud & DevOps</h2>
+<h2 align="center">Cloud & DevOps Certifications</h2>
 
 <p align="center">
   <a href="http://www.credly.com/badges/d330b1a1-77f7-4af9-a56e-40af2c879f0b" target="_blank"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100" height="100"></a>
@@ -33,7 +33,7 @@
   <a href="https://www.credly.com/badges/f1908c2e-a67e-4627-837b-e966c0655710" target="_blank"><img src="https://images.credly.com/size/110x110/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Cloud Essentials" width="100" height="100"></a>
 </p>
 
-<h2 align="center">CompTIA</h2>
+<h2 align="center">CompTIA Certifications</h2>
 
 <p align="center">
   <a href="http://www.credly.com/badges/cc5ce734-5444-419c-9ebc-89cb56d352cd" target="_blank"><img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+ ce Certification" width="100" height="100"></a>
@@ -51,7 +51,7 @@
    <a href="http://www.credly.com/badges/58aea155-f60a-4bb4-bb2b-92294cb891bb" target="_blank"><img src="https://images.credly.com/size/110x110/images/273d9e31-b6a6-449d-8a77-9213a2618f6d/CompTIA_Server_2B.png" alt="CompTIA Server+ Certification" width="100" height="100"></a>  
 </p>
 
-<h2 align="center">Linux Foundation</h2>
+<h2 align="center">Linux Foundation Certifications</h2>
 
 <p align="center">
   <a href="http://www.credly.com/badges/2099eaf8-2ff2-4087-97f9-189912dc4c83" target="_blank"><img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS: Linux Foundation Certified Systems Administrator" width="100" height="100"></a>
@@ -62,22 +62,25 @@
 
 <p align="center">
   <a href="http://www.credly.com/badges/30aa0ce5-379b-4116-aef0-b97c1cb3f8b4" target="_blank"><img src="https://images.credly.com/size/110x110/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" alt="ITIL 4 ® Foundation" width="100" height="100"></a>
-  <a href="http://www.credly.com/badges/888e8250-4ff7-4b34-bfdd-d4b87fa6a0d6" target="_blank"><img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" alt="Docker Essentials: A Developer Introduction" width="100" height="100"></a>
-  <a href="http://www.credly.com/badges/dc074bfb-5043-47f1-b0a6-9bf3e45e9373" target="_blank"><img src="https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM Cloud Essentials" width="100" height="100"></a>
+  <a href="http://www.credly.com/badges/888e8250-4ff7-4b34-bfdd-d4b87fa6a0d6" target="_blank"><img src="https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="100" height="100"></a>
+  <a href="http://www.credly.com/badges/dc074bfb-5043-47f1-b0a6-9bf3e45e9373" target="_blank"><img src="https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" alt="IBM Cloud Essentials" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/542021b7-8c53-4de9-b705-e21c28d232dc" target="_blank"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
+    <a href="https://www.credly.com/badges/7b88ac1b-c09c-432a-89f0-7e2c719e0fc6" target="_blank"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="100" height="100"></a>
 </p>
 
-<details>
-  <summary><h3>View More of My Badges</h3></summary>
-  <p align="center">
+<h2 align="center">Educational Badges</h2>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/322635d0-42b6-43bf-8262-1fdd5bbecd2f" target="_blank"><img src="https://images.credly.com/size/110x110/images/8c692c43-3fe8-4b98-a343-676ae91276bd/image.png" alt="Oral Communication" width="100" height="100"></a>
     <a href="http://www.credly.com/badges/2a7592d1-fa37-40f7-8092-bad3eb7bee62" target="_blank"><img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="100" height="100"></a>
     <a href="http://www.credly.com/badges/99197eca-19f0-419c-8af2-756f7407800e" target="_blank"><img src="https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" alt="AWS Cloud Quest: Solutions Architect" width="100" height="100"></a>
-    <a href="http://www.credly.com/badges/6de9327b-f3c6-4454-b0b2-52c1c6d45a2e" target="_blank"><img src="https://images.credly.com/size/110x110/images/6a77753d-220b-47ee-af39-789b433270a1/image.png" alt="LFS258: Kubernetes Fundamentals" width="100" height="100"></a>
-    <a href="http://www.credly.com/badges/e208e512-25f5-4ad3-ab06-e3dd3d3800b7" target="_blank"><img src="https://images.credly.com/size/110x110/images/caeea27f-a94c-4f76-9331-303083a6a76b/image.png" alt="LFS253: Containers Fundamentals" width="100" height="100"></a>
-    <a href="http://www.credly.com/badges/216fec68-c5f1-450d-ae7b-906d9288b21d" target="_blank"><img src="https://images.credly.com/size/110x110/images/5d84c23f-1655-401d-8f81-d6886ee16592/image.png" alt="LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery" width="100" height="100"></a>
-    <a href="http://www.credly.com/badges/3ab51c73-191f-484b-bbde-1ade83ca3940" target="_blank"><img src="https://images.credly.com/size/110x110/images/f7e95934-c3f8-4b80-98ae-d454c64a1d5a/image.png" alt="LFS207: Linux System Administration Essentials" width="100" height="100"></a>
-    <a href="http://www.credly.com/badges/7e8e7c80-4d67-4631-9bb5-27c648d1776e" target="_blank"><img src="https://images.credly.com/size/110x110/images/e06f2022-28f0-476e-bd9a-ecbdbbdd3162/image.png" alt="LFS203: Linux for Cloud Technicians Essentials" width="100" height="100"></a>
-  </p>
-</details>
+    <a href="http://www.credly.com/badges/6de9327b-f3c6-4454-b0b2-52c1c6d45a2e" target="_blank"><img src="https://images.credly.com/size/110x110/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob" alt="LFS258: Kubernetes Fundamentals" width="100" height="100"></a>
+    <a href="http://www.credly.com/badges/e208e512-25f5-4ad3-ab06-e3dd3d3800b7" target="_blank"><img src="https://images.credly.com/size/110x110/images/cb10be8e-09e5-4f0b-bc8b-baa69e804588/blob" alt="LFS253: Containers Fundamentals" width="100" height="100"></a>
+    <a href="http://www.credly.com/badges/216fec68-c5f1-450d-ae7b-906d9288b21d" target="_blank"><img src="https://images.credly.com/size/340x340/images/77796674-2a4e-4a35-823e-9e55e7ee159e/blob" alt="LFS261: DevOps and SRE Fundamentals - Implementing Continuous Delivery" width="100" height="100"></a>
+    <a href="http://www.credly.com/badges/3ab51c73-191f-484b-bbde-1ade83ca3940" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9a64860-cb15-42fe-9c9b-99114021473a/blob" alt="LFS207: Linux System Administration Essentials" width="100" height="100"></a>
+    <a href="http://www.credly.com/badges/7e8e7c80-4d67-4631-9bb5-27c648d1776e" target="_blank"><img src="https://images.credly.com/images/8a050055-1c59-40ef-b810-a3139ede6b63/blob" alt="LFS203: Linux for Cloud Technicians Essentials" width="100" height="100"></a>
+</p>
+
 <!--END_SECTION:badges-->
 
  <div style="background-color: #f8f9fa; padding: 30px; border-radius: 10px; margin-top: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
