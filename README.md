@@ -13,7 +13,7 @@
   <h2 style="color: #4a5568; border-bottom: 2px solid #4a5568; padding-bottom: 10px;">About Me</h2>
   <p style="color: #4a5568; line-height: 1.8; font-size: 1.1em;">
     🎓 Pursuing an MS in Computer Science at the University of Colorado Boulder<br>
-    💻 Specializing in cloud engineering, DevOps, and infrastructure architecture for big data applications<br>
+    💻 Specializing in cloud engineering, DevOps, and network architecture for big data applications<br>
     🔧 Expert in system configurations and troubleshooting across Windows and Linux platforms<br>
     🚀 Passionate about algorithm design and machine learning<br>
     🌟 Dedicated to pushing technological boundaries and driving innovation
