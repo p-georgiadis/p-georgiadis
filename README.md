@@ -71,6 +71,7 @@
 <h2 align="center">Educational Badges</h2>
 
 <p align="center">
+    <a href="https://www.credly.com/badges/02f7f655-e723-4c38-895a-9ca6fb1ac389" target="_blank"><img src="https://images.credly.com/size/110x110/images/046e11f4-07c3-4479-b2a2-a13e04647cdb/image.png" alt="Critical Thinking" width="100" height="100"></a>
     <a href="https://www.credly.com/badges/322635d0-42b6-43bf-8262-1fdd5bbecd2f" target="_blank"><img src="https://images.credly.com/size/110x110/images/8c692c43-3fe8-4b98-a343-676ae91276bd/image.png" alt="Oral Communication" width="100" height="100"></a>
     <a href="http://www.credly.com/badges/2a7592d1-fa37-40f7-8092-bad3eb7bee62" target="_blank"><img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="100" height="100"></a>
     <a href="http://www.credly.com/badges/99197eca-19f0-419c-8af2-756f7407800e" target="_blank"><img src="https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" alt="AWS Cloud Quest: Solutions Architect" width="100" height="100"></a>
