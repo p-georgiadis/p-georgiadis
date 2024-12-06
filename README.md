@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="vertical-align: middle;">
   <h1 style="font-size: 3.5em; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hello, I'm Pano Georgiadis</h1>
   
-  <p style="font-size: 1.5em; margin: 20px 0;">Cloud Engineer | MS Computer Science Student | DevOps Enthusiast</p>
+  <p style="font-size: 1.5em; margin: 20px 0;">Cloud Engineer | MS Computer Science Student | DevOps Enthusiast | ML & AI Programmer</p>
   
   <a href="https://www.linkedin.com/in/p-georgiadis/" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -95,7 +95,6 @@
     I'm here to collaborate on projects that push technological boundaries. If you're looking for someone who blends a strong technical foundation with a strategic view of IT integrations and optimizations, let's connect and create something extraordinary together!
   </p>
 </div>
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ1NDBpcjNvMG53M2I2eWhmYWthYjBoeGdwOHJnY2YxbThjbnd4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up,+visitor...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+knock,+visitor." />
 </div>
