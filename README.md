@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/p-georgiadis/" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://pgcloud.dev" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website">
+  </a>
 </div>
 
 <div style="background-color: #f8f9fa; padding: 30px; border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -16,9 +19,11 @@
     💻 Specializing in cloud engineering, DevOps, and network architecture for big data applications<br>
     🔧 Expert in system configurations and troubleshooting across Windows and Linux platforms<br>
     🚀 Passionate about algorithm design and machine learning<br>
-    🌟 Dedicated to pushing technological boundaries and driving innovation
+    🌟 Dedicated to pushing technological boundaries and driving innovation<br>
   </p>
 </div>
+
+
 
 <!--START_SECTION:badges-->
 <h1 align="center">Certifications & Badges</h1>
