@@ -35,6 +35,7 @@
   <a href="http://www.credly.com/badges/8c7eed6e-c9af-4e24-a9b3-b3f41396d03b" target="_blank"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/8d22badf-d4c4-41e8-b7f6-1a6797ef2c7e" target="_blank"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/01312f65-ea8d-4d5a-bbd0-37513e5d6d2e" target="_blank"><img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/d59182d3-f49e-4d8d-837e-e85e4507cc90" target="_blank"><img src="https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="HashiCorp Certified: Terraform Associate" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/f1908c2e-a67e-4627-837b-e966c0655710" target="_blank"><img src="https://images.credly.com/size/110x110/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Cloud Essentials" width="100" height="100"></a>
 </p>
 
