@@ -97,5 +97,5 @@
   </p>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up,+visitor...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+knock,+visitor." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Wake+up,...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+knock,+visitor." />
 </div>
