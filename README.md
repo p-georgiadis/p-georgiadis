@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="vertical-align: middle;">
   <h1 style="font-size: 3.5em; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hello, I'm Pano Georgiadis</h1>
   
-  <p style="font-size: 1.5em; margin: 20px 0;">Cloud Engineer | MS Computer Science Student | DevOps Enthusiast | ML & AI Programmer</p>
+  <p style="font-size: 1.5em; margin: 20px 0;">Cloud Engineer | MS Computer Science Graduate | DevOps Specialist | AI & ML Practitioner</p>
   
   <a href="https://www.linkedin.com/in/p-georgiadis/" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -29,7 +29,9 @@
 
 <!--START_SECTION:badges-->
 <h1 align="center">Certifications & Badges</h1>
-
+<p align="center">
+  <a href="https://www.credly.com/badges/4d6f5fd5-0f74-4008-8be4-f3527b20bef7" target="_blank"><img src="https://images.credly.com/size/150x150/images/a3c9e508-8858-4be2-9ffa-99921187cbe5/image.png" alt="CompTIA Network of Experts – Contributor (NoE-C)" width="150" height="150"></a>
+</p>
 <h2 align="center">Cloud & DevOps Certifications</h2>
 
 <p align="center">
@@ -44,6 +46,7 @@
 <h2 align="center">CompTIA Certifications</h2>
 
 <p align="center">
+    <a href="http://www.credly.com/badges/4241a986-748f-4f60-ba3b-4706209ed841" target="_blank"><img src="https://images.credly.com/size/110x110/images/16b097aa-10b3-4c90-9f96-f7b43ffa6cb4/blob" alt="CompTIA CloudNetX Certification" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/cc5ce734-5444-419c-9ebc-89cb56d352cd" target="_blank"><img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/9df5f69e-3a20-4313-b1c2-7f0782501f01" target="_blank"><img src="https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+ ce Certification" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/3e26e203-56ab-4f06-9de9-d7c382a98936" target="_blank"><img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ ce Certification" width="100" height="100"></a>
