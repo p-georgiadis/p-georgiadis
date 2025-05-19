@@ -67,6 +67,7 @@
 
 <p align="center">
   <a href="http://www.credly.com/badges/2099eaf8-2ff2-4087-97f9-189912dc4c83" target="_blank"><img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS: Linux Foundation Certified Systems Administrator" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/dda5fb2d-48b3-47c1-8edf-68f73cc3d34b" target="_blank"><img src="https://images.credly.com/size/110x110/images/1648c7a8-3d44-4b7f-84d5-986746d9f7d0/image.png" alt="LFCT: Linux Foundation Certified Cloud Technician" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/b67a98a9-0aba-4a27-8123-2666c62712ac" target="_blank"><img src="https://images.credly.com/size/110x110/images/2f33ded4-8e5e-442f-997d-2e804740ceab/image.png" alt="Cloud Engineer IT Professional Program" width="100" height="100"></a>
 </p>
 
