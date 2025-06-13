@@ -35,6 +35,8 @@
 <h2 align="center">Cloud & DevOps Certifications</h2>
 
 <p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/p-georgiadis/43D283DBE1AE2C51?sharingId=F1DDD9D8ACE92FDC" target="_blank"><img
+src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified: Azure Administrator Associate" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/d330b1a1-77f7-4af9-a56e-40af2c879f0b" target="_blank"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/8c7eed6e-c9af-4e24-a9b3-b3f41396d03b" target="_blank"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"></a>
   <a href="http://www.credly.com/badges/8d22badf-d4c4-41e8-b7f6-1a6797ef2c7e" target="_blank"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"></a>
