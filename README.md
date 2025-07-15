@@ -15,7 +15,7 @@
 <div style="background-color: #f8f9fa; padding: 30px; border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <h2 style="color: #4a5568; border-bottom: 2px solid #4a5568; padding-bottom: 10px;">About Me</h2>
   <p style="color: #4a5568; line-height: 1.8; font-size: 1.1em;">
-    🎓 MS in Computer Science from University of Colorado Boulder - 4.0 GPA with focus on AI and Machine Learning<br>
+    🎓 MS in Computer Science from University of Colorado Boulder - 4.0 GPA with graduate certificate in Artificial Intelligence and Machine Learning<br>
     💻 Specializing in cloud engineering, DevOps, and network architecture for big data applications<br>
     🧠 Implementing advanced machine learning algorithms and AI-driven solutions for enterprise environments<br>
     🔧 Expert in system configurations and troubleshooting across Windows and Linux platforms<br>
